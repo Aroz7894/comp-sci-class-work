@@ -1,0 +1,281 @@
+rank,title,distributor,year,gross,adjusted
+1,Gone with the Wind,MGM,1939,198.68,1855.13
+2,Star Wars,Fox,1977,461.00,1353.68
+3,The Sound of Music,Fox,1965,163.21,1224.45
+4,E.T.: The Extra-Terrestrial,Universal,1982,435.11,1109.23
+5,Titanic,Paramount,1997,658.67,1097.01
+6,The Ten Commandments,Paramount,1956,85.40,1037.70
+7,Jaws,Universal,1975,260.00,1001.27
+8,Snow White and the Seven Dwarfs,Disney / RKO,1937,184.93,943.39
+9,Doctor Zhivago,MGM,1965,111.72,807.84
+10,Avatar,Fox,2009,760.51,801.50
+11,Ben-Hur,MGM,1959,74.00,789.56
+12,The Empire Strikes Back,Fox,1980,290.27,770.86
+13,The Exorcist,Warner Bros.,1973,204.67,767.43
+14,Return of the Jedi,Fox,1983,309.31,740.50
+15,Mary Poppins,Disney,1964,102.27,731.31
+16,Jurassic Park,Universal,1993,402.45,730.20
+17,The Lion King,Disney,1994,422.78,724.68
+18,Star Wars: Episode I - The Phantom Menace,Fox,1999,474.54,719.80
+19,The Sting,Universal,1973,159.62,703.42
+20,Raiders of the Lost Ark,Paramount,1981,248.16,695.82
+21,The Graduate,AVCO Embassy,1967,104.90,653.29
+22,Forrest Gump,Paramount,1994,329.69,638.09
+23,The Godfather,Paramount,1972,134.97,626.65
+24,Marvel's The Avengers,Disney,2012,623.36,621.79
+25,The Dark Knight,Warner Bros.,2008,534.86,591.31
+26,Grease,Paramount,1978,188.39,590.93
+27,My Fair Lady,Warner Bros.,1964,72.43,582.75
+28,Shrek 2,DreamWorks,2004,441.23,564.14
+29,Ghostbusters,Columbia,1984,238.63,562.72
+30,Around the World in Eighty Days,United Artists,1956,42.00,558.62
+31,Beverly Hills Cop,Paramount,1984,234.76,554.76
+32,Spider-Man,Sony / Columbia,2002,403.71,552.66
+33,Independence Day,Fox,1996,306.17,550.00
+34,Love Story,Paramount,1970,106.40,545.03
+35,Home Alone,Fox,1990,285.76,537.67
+36,Butch Cassidy and the Sundance Kid,Fox,1969,102.31,530.34
+37,The Robe,Fox,1953,36.00,519.71
+38,Airport,Universal,1970,100.49,514.76
+39,Pirates of the Caribbean: Dead Man's Chest,Disney,2006,423.32,513.15
+40,Cleopatra,Fox,1963,57.78,507.90
+41,Batman,Warner Bros.,1989,252.10,501.68
+42,The Lord of the Rings: The Return of the King,New Line,2003,377.03,496.45
+43,American Graffiti,Universal,1973,115.00,492.38
+44,101 Dalmatians,Disney,1961,144.88,490.51
+45,Finding Nemo,Disney,2003,380.84,488.34
+46,Thunderball,United Artists,1965,63.60,486.27
+47,Blazing Saddles,Warner Bros.,1974,119.50,485.64
+48,National Lampoon's Animal House,Universal,1978,141.60,480.47
+49,Tootsie,Columbia,1982,177.20,478.56
+50,Spider-Man 2,Sony / Columbia,2004,373.52,477.58
+51,The Passion of the Christ,Newmarket,2004,370.77,474.05
+52,Back to the Future,Universal,1985,210.61,471.05
+53,Lady and the Tramp,Disney,1955,88.30,471.05
+54,Star Wars: Episode III - Revenge of the Sith,Fox,2005,380.27,471.04
+55,The Lord of the Rings: The Two Towers,New Line,2002,341.79,467.79
+56,The Greatest Show on Earth,Paramount,1952,34.00,467.05
+57,Bambi,Disney / RKO,1942,102.80,462.95
+58,Close Encounters of the Third Kind,Columbia,1977,132.09,460.75
+59,The Sixth Sense,Disney,1999,293.51,460.56
+60,The Jungle Book,Disney,1967,135.48,459.80
+61,Superman,Warner Bros.,1978,40.93,455.42
+62,Smokey and the Bandit,Universal,1977,126.74,451.25
+63,The Towering Inferno,Fox,1974,107.08,449.86
+64,The Dark Knight Rises,Warner Bros.,2012,448.14,447.01
+65,Harry Potter and the Sorcerer's Stone,Warner Bros.,2001,317.58,446.29
+66,Peter Pan,Disney / RKO,1953,87.40,445.48
+67,The Lord of the Rings: The Fellowship of the Ring,New Line,2001,314.78,442.23
+68,One Flew Over the Cuckoo's Nest,United Artists,1975,112.00,438.07
+69,Rocky,United Artists,1976,117.24,437.02
+70,Twister,Warner Bros.,1996,241.72,434.22
+71,Men in Black,Sony / Columbia,1997,250.69,433.66
+72,Cinderella,Disney  / RKO,1950,88.00,429.75
+73,Pinocchio,Disney  / RKO,1940,87.00,427.50
+74,Transformers: Revenge of the Fallen,Paramount / DreamWorks,2009,402.11,425.70
+75,Star Wars: Episode II - Attack of the Clones,Fox,2002,310.68,425.31
+76,Indiana Jones and the Temple of Doom,Paramount,1984,179.87,425.05
+77,Goldfinger,United Artists,1964,51.08,423.47
+78,White Christmas,Paramount,1954,26.00,421.31
+79,Mrs. Doubtfire,Fox,1993,219.20,420.39
+80,M.A.S.H.,Fox,1970,81.60,418.00
+81,West Side Story,MGM,1961,43.66,417.72
+82,Toy Story 3,Disney,2010,415.00,417.64
+83,Aladdin,Disney,1992,217.35,415.89
+84,How the West Was Won,MGM / Cinerama,1963,46.00,412.37
+85,Ghost,Paramount,1990,217.63,409.48
+86,South Pacific,Fox,1958,35.00,408.68
+87,The Best Years of Our Lives,RKO,1946,23.65,408.22
+88,The Hunger Games,Lionsgate,2012,408.01,406.99
+89,Pirates of the Caribbean: The Curse of the Black Pearl,Disney,2003,305.41,402.15
+90,The Lost World: Jurassic Park,Universal,1997,229.09,396.29
+91,The Bridge on the River Kwai,Columbia,1957,33.00,395.76
+92,"It's a Mad,Mad,Mad,Mad World ",MGM,1963,46.33,395.58
+93,The Poseidon Adventure,Fox,1972,84.56,394.96
+94,"Monsters,Inc.",Disney,2001,289.76,393.50
+95,Indiana Jones and the Last Crusade,Paramount,1989,197.17,392.37
+96,From Here to Eternity,Columbia,1953,27.00,389.78
+97,Spider-Man 3,Sony / Columbia,2007,336.53,388.38
+98,Terminator 2: Judgment Day,TriStar,1991,204.84,386.33
+99,Toy Story 2,Disney,1999,245.85,385.78
+100,Samson and Delilah,Paramount,1949,26.00,385.17
+101,Quo Vadis,MGM,1951,27.00,383.23
+102,How the Grinch Stole Christmas,Universal,2000,260.04,383.07
+103,Harry Potter and the Deathly Hallows: Part 2,Warner Bros.,2011,381.01,381.49
+104,Top Gun,Paramount,1986,179.80,381.36
+105,Shrek,DreamWorks,2001,267.67,376.15
+106,This Is the Army,Warner Bros.,1943,18.00,376.11
+107,Crocodile Dundee,Paramount,1986,174.80,374.11
+108,Iron Man 3,Disney,2013,374.34,372.78
+109,Shrek the Third,Paramount / DreamWorks,2007,322.72,372.44
+110,The Matrix Reloaded,Warner Bros.,2003,281.55,370.74
+111,Giant,Warner Bros.,1956,30.00,370.69
+112,Guess Who's Coming to Dinner,Columbia,1967,56.67,368.80
+113,Transformers,Paramount / DreamWorks,2007,319.25,368.43
+114,Saving Private Ryan,DreamWorks,1998,216.34,363.09
+115,Young Frankenstein,Fox,1974,86.27,362.44
+116,"The Chronicles of Narnia: The Lion,the Witch and the Wardrobe",Disney,2005,291.71,361.34
+117,Fantasia,Disney,1940,80.00,361.25
+118,Gremlins,Warner Bros.,1984,153.08,361.13
+119,Harry Potter and the Goblet of Fire,Warner Bros.,2005,290.01,359.24
+120,Fiddler on the Roof,United Artists,1971,78.00,358.72
+121,Harry Potter and the Chamber of Secrets,Warner Bros.,2002,261.99,358.65
+122,Beauty and the Beast,Disney,1991,218.97,357.49
+123,Pirates of the Caribbean: At World's End,Disney,2007,309.42,357.09
+124,Meet the Fockers,Universal,2004,279.26,357.06
+125,Song of the South,Disney,1946,65.00,354.81
+126,Transformers: Dark of the Moon,Paramount / DreamWorks,2011,352.39,352.84
+127,The Fugitive,Warner Bros.,1993,183.88,352.57
+128,Iron Man,Paramount,2008,318.41,352.12
+129,The Bells of St. Mary's,RKO,1945,19.00,350.84
+130,Indiana Jones and the Kingdom of the Crystal Skull,Paramount,2008,317.10,350.67
+131,An Officer and a Gentleman,Paramount,1982,129.80,350.54
+132,Toy Story,Disney,1995,191.80,349.88
+133,The Longest Day,Fox,1962,38.00,349.76
+134,Funny Girl,Columbia,1968,58.72,349.32
+135,Dances with Wolves,Orion,1990,184.21,346.59
+136,Sergeant York,Warner Bros.,1941,15.00,346.21
+137,Lawrence of Arabia,Columbia,1962,43.00,345.99
+138,Cast Away,Fox,2000,233.63,344.16
+139,Tom Jones,United Artists,1963,38.00,343.79
+140,Kramer Vs. Kramer,Columbia,1979,106.26,341.58
+141,Armageddon,Disney,1998,201.58,341.27
+142,Three Men and a Baby,Disney,1987,167.78,340.71
+143,Rocky III,MGM/UA,1982,125.05,337.72
+144,Harry Potter and the Order of the Phoenix,Warner Bros.,2007,292.00,336.99
+145,Rambo: First Blood Part II,TriStar,1985,150.42,336.42
+146,Alice in Wonderland2010,Disney,2010,334.19,336.31
+147,Batman Forever,Warner Bros.,1995,184.13,336.10
+148,Pretty Woman,Disney,1990,178.41,335.67
+149,Saturday Night Fever,Paramount,1977,94.21,335.45
+150,Earthquake,Universal,1974,79.67,334.68
+151,The Incredibles,Disney,2004,261.44,334.27
+152,Rain Man,MGM/UA,1988,172.83,333.88
+153,Home Alone 2: Lost in New York,Fox,1992,173.59,332.11
+154,Duel in the Sun,Selznick Releasing,1946,20.41,330.70
+155,My Big Fat Greek Wedding,IFC Films,2002,241.44,330.52
+156,20000 Leagues Under The Sea,Disney,1954,25.00,329.61
+157,Bonnie and Clyde,Warner Bros.,1967,50.00,325.41
+158,Mission: Impossible,Paramount,1996,180.98,325.11
+159,On Golden Pond,Universal,1981,119.29,323.77
+160,Austin Powers: The Spy Who Shagged Me,New Line,1999,206.04,323.31
+161,Bruce Almighty,Universal,2003,242.83,319.75
+162,Harry Potter and the Half-Blood Prince,Warner Bros.,2009,301.96,319.67
+163,Harry Potter and the Prisoner of Azkaban,Warner Bros.,2004,249.54,319.06
+164,For Whom the Bell Tolls,Paramount,1943,16.00,318.19
+165,Fatal Attraction,Paramount,1987,156.65,318.10
+166,Rush Hour 2,New Line,2001,226.16,317.83
+167,Mission: Impossible II,Paramount,2000,215.41,317.32
+168,Apollo 13,Universal,1995,173.84,316.50
+169,Patton,Fox,1970,61.75,316.32
+170,Iron Man 2,Paramount,2010,312.13,314.11
+171,The Twilight Saga: New Moon,Summit,2009,296.64,314.04
+172,Liar Liar,Universal,1997,181.41,313.81
+173,2001: A Space Odyssey,MGM,1968,56.95,312.55
+174,Robin Hood: Prince of Thieves,Warner Bros.,1991,165.49,312.12
+175,Signs,Disney,2002,227.97,312.08
+176,Beverly Hills Cop II,Paramount,1987,153.67,312.05
+177,Batman Returns,Warner Bros.,1992,162.83,311.54
+178,Up,Disney,2009,293.00,310.19
+179,Superman II,Warner Bros.,1981,108.19,308.99
+180,"What's Up,Doc?",Warner Bros.,1972,66.00,308.26
+181,The Caine Mutiny,Columbia,1954,19.00,307.88
+182,9 to 5,Fox,1980,103.29,304.88
+183,Night at the Museum,Fox,2006,250.86,304.10
+184,The Firm,Paramount,1993,158.37,303.73
+185,Skyfall,Sony / Columbia,2012,304.36,303.60
+186,The Twilight Saga: Eclipse,Summit,2010,300.53,302.44
+187,The Hobbit: An Unexpected Journey  /,New Line,2012,303.00,302.24
+188,Porky's,Fox,1982,111.29,299.51
+189,Air Force One,Sony / Columbia,1997,172.96,299.19
+190,Stir Crazy,Columbia,1980,101.30,299.00
+191,There's Something About Mary,Fox,1998,176.49,298.79
+192,A Star Is Born,Warner Bros.,1976,80.00,298.22
+193,Harry Potter and the Deathly Hallows: Part 1,Warner Bros.,2010,295.98,297.86
+194,Peyton Place,Fox,1957,24.00,297.75
+195,Who Framed Roger Rabbit,Disney,1988,154.11,297.73
+196,I Am Legend,Warner Bros.,2007,256.39,295.90
+197,Cars,Disney,2006,244.08,295.88
+198,Inception,Warner Bros.,2010,292.58,294.43
+199,The Hangover,Warner Bros.,2009,277.32,293.59
+200,The Jolson Story,Columbia,1946,17.00,293.44
+201,Lethal Weapon 2,Warner Bros.,1989,147.31,293.14
+202,The Dirty Dozen,MGM,1967,45.00,292.87
+203,The Goodbye Girl,Warner Bros.,1977,82.00,291.96
+204,Austin Powers in Goldmember,New Line,2002,213.24,291.92
+205,The Twilight Saga: Breaking Dawn - Part 2,Lionsgate / Summit,2012,292.32,291.59
+206,Going My Way,Paramount,1944,15.00,290.49
+207,War of the Worlds,Paramount,2005,234.28,290.20
+208,Every Which Way But Loose,Warner Bros.,1978,85.20,289.09
+209,Swiss Family Robinson,Disney,1960,40.36,288.80
+210,Valley of the Dolls,Fox,1967,44.00,286.36
+211,Rocky IV,MGM/UA,1985,127.87,286.00
+212,The Carpetbaggers,Paramount,1964,34.00,284.86
+213,True Lies,Fox,1994,146.28,284.68
+214,X-Men: The Last Stand,Fox,2006,234.36,284.10
+215,The Mummy Returns,Universal,2001,202.02,283.90
+216,X2: X-Men United,Fox,2003,214.95,283.04
+217,The Santa Clause,Disney,1994,144.83,281.86
+218,The Guns of Navarone,Columbia,1961,28.00,281.84
+219,Psycho,Universal,1960,28.00,281.67
+220,The Twilight Saga: Breaking Dawn - Part 1,Lionsgate / Summit,2011,281.29,281.57
+221,Platoon,Orion,1986,138.53,281.48
+222,Pearl Harbor,Disney,2001,198.54,279.01
+223,Look Who's Talking,TriStar,1989,140.09,278.77
+224,The Amityville Horror,AIP,1979,86.43,277.84
+225,Heaven Can Wait,Paramount,1978,81.64,277.02
+226,Lethal Weapon 3,Warner Bros.,1992,144.73,276.91
+227,Jerry Maguire,Sony / TriStar,1996,153.96,276.58
+228,Gladiator,DreamWorks,2000,187.71,276.43
+229,You Only Live Twice,United Artists,1967,43.08,276.13
+230,Jaws 2,Universal,1978,81.77,275.67
+231,A Bug's Life,Disney,1998,162.80,275.61
+232,Rocky II,United Artists,1979,85.18,273.82
+233,The Waterboy,Disney,1998,161.49,273.40
+234,"To Sir,with Love",Columbia,1967,42.00,273.34
+235,Terms of Endearment,Paramount,1983,108.42,273.30
+236,Sayonara,Warner Bros.,1957,22.00,272.94
+237,Star Trek,Paramount,2009,257.73,272.85
+238,Arthur,Orion,1981,95.46,272.65
+239,Shane,Paramount,1953,20.00,272.64
+240,The Love Bug,Disney,1969,51.26,272.47
+241,The Blind Side,Warner Bros.,2009,255.96,270.98
+242,A Few Good Men,Columbia,1992,141.34,270.42
+243,King Kong2005,Universal,2005,218.14,270.20
+244,The Odd Couple,Paramount,1968,44.53,269.88
+245,Mister Roberts,Warner Bros.,1955,18.00,269.66
+246,The Shaggy Dog,Disney,1959,27.00,269.62
+247,What Women Want2000,Paramount,2000,182.81,269.30
+248,The Matrix,Warner Bros.,1999,171.48,269.08
+249,The Perfect Storm,Warner Bros.,2000,182.62,269.02
+250,Tarzan,Disney,1999,171.09,268.47
+251,Sister Act,Disney,1992,139.61,267.10
+252,Star Trek: The Motion Picture,Paramount,1979,82.26,264.43
+253,The Da Vinci Code,Sony / Columbia,2006,217.54,263.70
+254,All the President's Men,Warner Bros.,1976,70.60,263.18
+255,El Cid,Allied Artists,1961,26.00,262.85
+256,The Bourne Ultimatum,Universal,2007,227.47,262.52
+257,The Amazing Spider-Man,Sony / Columbia,2012,262.03,261.37
+258,Men in Black II,Sony / Columbia,2002,190.42,260.68
+259,Sleeping Beauty,Disney,1959,51.60,260.29
+260,"Honey,I Shrunk the Kids",Disney,1989,130.72,260.14
+261,Apocalypse Now,United Artists,1979,83.47,259.88
+262,Wedding Crashers,New Line,2005,209.22,259.16
+263,Pocahontas,Disney,1995,141.58,258.42
+264,Ocean's Eleven,Warner Bros.,2001,183.42,257.76
+265,As Good as It Gets,Sony / TriStar,1997,148.48,256.85
+266,Big Daddy,Sony / Columbia,1999,163.48,256.53
+267,Alien,Fox,1979,80.93,256.39
+268,Batman Begins,Warner Bros.,2005,206.85,255.86
+269,Charlie and the Chocolate Factory,Warner Bros.,2005,206.46,255.74
+270,The Hangover Part II,Warner Bros.,2011,254.46,254.79
+271,Jurassic Park III,Universal,2001,181.17,254.60
+272,Bullitt,Warner Bros.,1968,42.00,254.57
+273,Teenage Mutant Ninja Turtles,New Line,1990,135.27,254.50
+274,The Flintstones,Universal,1994,130.56,254.08
+275,National Treasure: Book of Secrets,Disney,2007,219.96,253.85
+276,Despicable Me,Universal,2010,251.51,253.11
+277,Planet of the Apes2001,Fox,2001,180.01,252.97
+278,Hancock,Sony / Columbia,2008,227.95,252.07
+279,Alvin and the Chipmunks,Fox,2007,217.33,250.81
+280,Midnight Cowboy,United Artists,1969,44.79,250.42
