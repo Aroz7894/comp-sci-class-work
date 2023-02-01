@@ -1,0 +1,11 @@
+<launch>
+  <include file="$(find turtlebot_bringup)/launch/minimal.launch"/>
+  <include file="$(find turtlebot_bringup)/launch/3dsensor.launch">
+    <arg name="depth_registration" value="false"/>
+
+  </include>
+  <param name="p_gain" value="5"/>
+  <param name="i_gain" value="1"/>
+  <param name="d_gain" value="0"/>
+    
+</launch>

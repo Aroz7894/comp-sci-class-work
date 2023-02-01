@@ -1,0 +1,100 @@
+\documentclass[12pt]{article}
+\title{HW1}
+\author{Andrew Rozniakowski}
+\date{January 19, 2015}
+\begin{document}
+Andrew Rozniakowski \\
+4/9/15 \\
+\\ \\ 
+\center{\underline{Annotated Bibliography}}\\ 
+\begin{enumerate}
+\item Vishnu R. Desaraju, Nathan Michael, Martin Humenberger, Roland Brockers, Stephan Weiss and Larry Matthies. Vision-based Landing Site Evaluation and Trajectory Generation Toward Rooftop Landing. In \textit{Proceedings of Robotics: Science and Systems}, 2014. \newline \newline
+
+	 In this paper these doctors made a robot who was able to autonomously determine 
+	if a roof is fit for landing and then lands on it. This functionality is 
+	mainly used for military and spying purposes. The robot is told to monitor an 
+	object, it then autonomously finds an elevated position near the object and 
+	determines if that position is fit for landing before proceeding to land. 
+	It only uses a camera downward looking camera as well as two baseline cameras, 
+	and an IMU (internal measurement unit). The robot is able to get three different 		
+	pictures of a landing area and it uses a dense motion stereo to build a 3D 
+	representation of that area. It then transforms this 3D map in image space to a 
+	spatially-varying conditional probability distribution via a Gaussian process. This 
+	gives the robot a confidence in its landing spot. This paper referenced my third paper 
+	on this list “Autonomous Vision-based Landing and Terrain Mapping Using an MPC-
+	controlled Unmanned Rotorcraft”. This is a very important aspect of this problem. It 
+	describes methods for mapping a terrain, something that is essential to the original 
+	paper. \newline
+
+	At this point this robot is not completely functional. All components are implemented 
+	but a complete outdoor testing of its perception and planning is yet to be done. 
+	Because the robot only looks at an area the size of the robot it could take a very 
+	long time to test outdoors and in turn would be very expensive. All tests run indoors 
+	with controlled parameters have been promising. The doctors plan on completing these 
+	tests soon. They also plan on adding functionality, giving the robot the ability to 
+	land on more sophisticated surfaces. \newline
+
+
+\item Lionel Heng, Gim Hee Lee, and Marc Pollefeys. Self-Calibration and Visual SLAM with a Multi-Camera System on a Micro Aerial Vehicle. In \textit{Proceedings of Robotics: Science and Systems}, 2014. \newline \newline
+
+
+	This paper details an aerial vehicle that uses multiple cameras to get a full 
+	awareness of its surroundings. Multiple cameras can give a robot a much better view of 
+	its surroundings. This is very important to my main paper. It was also able to use 
+	multiple cameras to build a 3D terrain map. This paper deals more with the calibration 
+	of the cameras. An accurate calibration is an essential prerequisite if vision-based 
+	localization and mapping is expected to provide reliable pose estimates for a micro 
+	aerial vehicle with a multi-camera system. \newline
+
+	The authors of this paper came up with a SLAM based self-calibration method to keep 
+	track of an objects poses as it switches from camera to camera. They used there 
+	intrinsic camera calibration to compute the cameras pose with respect to the 
+	chessboard. They used this to obtain an initial guess of both the intrinsic cameras 
+	parameters and the transform between each camera and the MAV. They optimized these 
+	parameters and camera-MAV transforms via non-linear refinement. From pose and IMU 
+	measurements, they performed a hand-eye calibration to find a ground-truth estimate of 
+	the rotation between the MAV and the IMU, and thus, the camera-IMU transforms. \newline
+
+	To test how accurate their method is, they had the robot track the pose of a chess 
+	board on the ground as well as the robot itself as it varied between different 
+	heights. Their SLAM-based self-calibration method produced accurate extrinsic 
+	calibrations for a MAV with multiple stereo cameras as long as there was a sufficient 
+	number of inter-camera feature correspondences. Through real-world experiments in 
+	indoor and outdoor environments, they demonstrated real-time on-board SLAM on a MAV 
+	with multiple cameras. The MAV was able to perform autonomous flight based on the pose 
+	estimates from SLAM. They plan on adding capabilities such as dense mapping and 3D 
+	exploration to our MAV platform in future works. \newline
+
+
+
+\item T. Templeton, D. H. Shim, C. Geyer, and S. S. Sastry. Autonomous vision-based landing and terrain mapping using an MPC-controlled unmanned rotorcraft. In \textit{Proc. of the IEEE Intl. Conf. on Robot. and Autom.}, pages 1349–1356, 2007. \newline \newline
+
+
+	This paper also deals with terrain mapping for an aerial vehicle except this robot 
+	only uses one camera, compared to the multiple camera systems of the other two papers. 
+	It is essential for an intelligent aerial vehicle to be able to autonomously locate, 
+	and then land at, a suitable landing site. This was something that was essential to 
+	both other papers. It was referenced by “Vision-based Landing Site Evaluation and 
+	Trajectory Generation Toward Rooftop Landing”. The things accomplished in this study 
+	laid the framework for the other two papers to accomplish what they wanted to do. \newline 
+
+	The vision landing problem was tested in many previous research projects, but many of 
+	them required an easily-recognizable landing target. This paper, however, created a 
+	robot that found a flat surface that was suitable to land on. They were able to do 
+	this by using Geyer et al.’s Recursive Multi-Frame Planar Parallax algorithm (RMFPP), 
+	which accurately estimates 3D structures using georeferenced images from a single 
+	camera.  \newline
+
+	They tested this by reconstructing a terrain using an experimental aerial imagery that 
+	was geo-registered offline and then processed using the RMFPP algorithm in real time 
+	on hardware similar to that in the vehicle vision computer. They concluded that the 
+	RMFPP algorithm required higher camera localization accuracy than they were able to 
+	achieve using existing algorithms, but they were able to show accurate results for 
+	other components of the vision system when the camera localization was computed 
+	offline. Their flight control algorithm showed to be a viable approach for producing 
+	plausible trajectories in real time using the identified vehicle model. \newline
+
+
+\end{enumerate}
+
+\end{document}
